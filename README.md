@@ -34,7 +34,7 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/Amolraipure24/Restaurant-Website)
+   git clone https://github.com/Amolraipure24/Restaurant-Website
    ```
 2. Navigate to the project directory:
    ```bash
@@ -80,7 +80,7 @@ restaurant-website/
 For inquiries or feedback, feel free to reach out:
 
 - **Email**: amolraipure.ar@gmail.com
-- **LinkedIn**: [[Your LinkedIn](https://www.linkedin.com/in/amol-raipure/)](#)
+- **LinkedIn**: https://www.linkedin.com/in/amol-raipure/
 
 ---
 
